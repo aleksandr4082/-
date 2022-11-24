@@ -1,0 +1,8 @@
+D:\программирование\c#\Pervoe-prilozhenie C sharp\bin\Debug\Pervoe-prilozhenie C sharp.exe.config
+D:\программирование\c#\Pervoe-prilozhenie C sharp\bin\Debug\Pervoe-prilozhenie C sharp.exe
+D:\программирование\c#\Pervoe-prilozhenie C sharp\bin\Debug\Pervoe-prilozhenie C sharp.pdb
+D:\программирование\c#\Pervoe-prilozhenie C sharp\obj\Debug\Pervoe-prilozhenie C sharp.csproj.AssemblyReference.cache
+D:\программирование\c#\Pervoe-prilozhenie C sharp\obj\Debug\Pervoe-prilozhenie C sharp.csproj.CoreCompileInputs.cache
+D:\программирование\c#\Pervoe-prilozhenie C sharp\obj\Debug\Pervoe-prilozhenie C sharp.exe
+D:\программирование\c#\Pervoe-prilozhenie C sharp\obj\Debug\Pervoe-prilozhenie C sharp.pdb
+D:\программирование\c#\Pervoe-prilozhenie C sharp\obj\Debug\Pervoe-prilozhenie C sharp.csproj.SuggestedBindingRedirects.cache
