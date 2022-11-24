@@ -1,0 +1,10 @@
+D:\программирование\перевод кода HTML\html editor\bin\Debug\html editor.exe.config
+D:\программирование\перевод кода HTML\html editor\bin\Debug\html editor.exe
+D:\программирование\перевод кода HTML\html editor\bin\Debug\html editor.pdb
+D:\программирование\перевод кода HTML\html editor\obj\Debug\html editor.csproj.AssemblyReference.cache
+D:\программирование\перевод кода HTML\html editor\obj\Debug\html_editor.Form1.resources
+D:\программирование\перевод кода HTML\html editor\obj\Debug\html_editor.Properties.Resources.resources
+D:\программирование\перевод кода HTML\html editor\obj\Debug\html editor.csproj.GenerateResource.cache
+D:\программирование\перевод кода HTML\html editor\obj\Debug\html editor.csproj.CoreCompileInputs.cache
+D:\программирование\перевод кода HTML\html editor\obj\Debug\html editor.exe
+D:\программирование\перевод кода HTML\html editor\obj\Debug\html editor.pdb
